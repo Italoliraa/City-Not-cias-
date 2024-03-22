@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: url(../img/fundo.png) repeat-x;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#topo{
+    width: 750px;
+    margin: 5px auto;
+}
+
+.detalhe{
+    float: right;
+}
+
+.logo{
+    padding-top: 25px;
+}
+
+#navegacao{
+    height: 50px;
+    width: auto;
+    background: brown;
+}
+
+.links{
+    margin-top: 25px;
+    font-size: 15pt;
+    padding-top: 10px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 3px;
+}
+
+a:hover{
+    color: black;
+}
+
+#corpo{
+    margin: 70px auto;
+    width: 800px;
+    height: 650px;
+    background-color: black;
+    
+}
+
+.entrevistas{
+    background-color: rgb(212, 43, 43);
+    height: 450px;
+    width: 180px;
+    float: left;
+    
+}
+.destaques{
+    background-color: aqua;
+    height: 450px;
+    width: 280px;
+    float: right;
+}
+.ultima{
+    background-color: rgb(48, 174, 44);
+    height: 450px;
+    width: 280px;
+    float: right;
+    margin: 0px 30px;
+}
