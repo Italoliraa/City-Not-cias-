@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: url(../img/fundo.png) repeat-x;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(83, 213, 60);
+}
+
+h5{
+    margin-left: 10px;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+#topo{
+    width: 750px;
+    margin: 5px auto;
+}
+
+.detalhe{
+    float: right;
+}
+
+.logo{
+    padding-top: 25px;
+}
+
+#navegacao{
+    height: 50px;
+    width: auto;
+    background: brown;
+    border-radius: 5px;
+}
+
+.links{
+    margin-top: 25px;
+    font-size: 13pt;
+    padding-top: 12px;
+}
+
+#navegacao span a{
+    text-decoration: none;
+    color: rgb(255, 252, 252);
+    margin: 3px;
+}
+
+#navegacao span a:hover{
+    color: black;
+}
+
+#corpo{
+    margin: 80px auto;
+    width: 800px;
+    height: 610px;
+}
+.ultima{
+    background-color: aqua;
+    /*background-color: rgb(50, 174, 44);*/
+    height: auto;
+    width: 700px;
+    float: right;
+    margin: 0px 30px;
+}
+
+h1{
+    background: rgb(0, 0, 7);
+    color: aliceblue;
+    font-size: 15pt;
+    border-radius: 5px;
+}
+
+.taxi{
+    margin: 13px;
+    width: 95%;
+    border-radius: 5px;
+}
+
+#footer{
+    margin-top: 1850px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+.tchau{
+    padding-top: 18px;
+    text-align: center;
+}
