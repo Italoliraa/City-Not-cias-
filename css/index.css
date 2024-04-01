@@ -75,6 +75,10 @@ ul{
     width: 280px;
     float: right;
 }
+
+.introducao{
+    padding-left: 7px;
+}
 .ultima{
     background-color: aqua;
     /*background-color: rgb(50, 174, 44);*/
