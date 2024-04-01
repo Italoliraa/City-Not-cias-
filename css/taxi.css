@@ -6,7 +6,7 @@
 body{
     background: url(../img/fundo.png) repeat-x;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(83, 213, 60);
+    /*background-color: rgb(83, 213, 60);*/
 }
 
 h5{
