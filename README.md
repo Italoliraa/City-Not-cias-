@@ -17,4 +17,4 @@
 
 <hr>
 
-Te convido para que você possa acessar e ver com mais detalhes o site criado. Você conseguirá ver com mais detalhes clicando no link do deploy que se encontra ao lado direto da tela. 
+Convido você a acessar e explorar o site criado para ver todos os detalhes. Clique no link de deploy que se encontra no lado direito da tela para obter mais informações.
